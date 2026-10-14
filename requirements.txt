@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.37.0
+psycopg[binary]==3.3.6
+matplotlib==3.11.2
+python-dotenv==1.2.4
+tzdata==2026.5
